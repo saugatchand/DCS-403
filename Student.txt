@@ -1,0 +1,40 @@
+Student 1
+ID: 1
+Name: Saugat Chand
+Phone: 9848902300
+Course: BScIT
+Fee: 500000
+Remarks: Paid
+------------------------
+Student 2
+ID: 2
+Name: Garima Bhatt
+Phone: 98489000000
+Course: BScIT
+Fee: 9e+06
+Remarks: Paid
+------------------------
+Student 3
+ID: 3
+Name: Riya Ojha
+Phone: 9848000000
+Course: BScIT
+Fee: 600000
+Remarks: paid
+------------------------
+Student 4
+ID: 4
+Name: Unique Bhandari
+Phone: 9848900000
+Course: BScIT
+Fee: 800000
+Remarks: paid
+------------------------
+Student 5
+ID: 5
+Name: Prasun Ghimire
+Phone: 9848000000
+Course: BScIT
+Fee: 100000
+Remarks: paid
+------------------------
